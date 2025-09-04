@@ -1,9 +1,7 @@
 //Program 1: Demonstrating Variables, Data Types, and Basic Operations
 
 
-public class Practice {
-
-	public static void main(String[] args) {
+	public class Practice { public static void main(String[] args) {
 
 		        int num1 = 10;   
 		        int num2 = 10;
